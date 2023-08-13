@@ -1,3 +1,4 @@
+![logo](https://github.com/dev-zohaibamin/dev-zohaibamin/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Zohaib Amin</h1>
 <h3 align="center">Senior Software Engineer | Mean Stack Developer | Angular | Node Js | JavaScript | Type Script | NGRX | STRIPE | Twitch | Auth 0 | Rest API | SocketIO | GraphQL | Unit Testing | Microservices |</h3>
 
