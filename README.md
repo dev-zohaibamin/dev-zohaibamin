@@ -294,12 +294,31 @@ Verified feedback from LinkedIn & Upwork. More on [zohaib-amin.web.app/testimoni
 ## 📈 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-zohaibamin&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=f4f7fb&title_color=0e7490&icon_color=0e7490&text_color=0f172a&border_radius=10" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zohaibamin&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=f4f7fb&title_color=0e7490&text_color=0f172a&border_radius=10" alt="Top languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-zohaibamin&theme=default&hide_border=true&background=F4F7FB&ring=0E7490&fire=155E75&currStreakLabel=0F172A&sideLabels=475569&sideNums=0F172A&dates=64748B&border_radius=10" width="70%" alt="GitHub streak"/>
+### Stats & languages
+
+<img width="48%" height="210" src="https://github-readme-stats.vercel.app/api?username=dev-zohaibamin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&ring_color=0E7490&border_radius=12&cache_seconds=1800" alt="GitHub stats"/>
+&nbsp;
+<img width="48%" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zohaibamin&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&border_radius=12&cache_seconds=1800" alt="Top languages"/>
+
+<br/><br/>
+
+### Contribution streak
+
+<img width="92%" src="https://streak-stats.demolab.com/?user=dev-zohaibamin&hide_border=true&background=0B1220&ring=22D3EE&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=1E293B&border_radius=12&card_width=560" alt="GitHub streak"/>
+
+<br/><br/>
+
+### Contribution graph
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-zohaibamin&bg_color=0b1220&color=22d3ee&line=0e7490&point=e2e8f0&area=true&area_color=0e7490&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+
+<br/><br/>
+
+### Achievements
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dev-zohaibamin&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+
 </div>
 
 ---
