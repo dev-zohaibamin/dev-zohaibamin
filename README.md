@@ -1,286 +1,157 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1a6b96,100:00d9ff&height=220&section=header&text=Zohaib%20Amin&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Senior%20Full%20Stack%20Engineer%20%7C%207%2B%20Years&descAlignY=60&descSize=20&descAlign=50&animation=fadeIn&stroke=00d9ff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e293b,100:0f172a&height=180&section=header&text=Zohaib%20Amin&fontSize=58&fontColor=f8fafc&fontAlignY=40&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%208%2B%20Years%20%C2%B7%2050%2B%20Apps&descAlignY=62&descSize=16&animation=fadeIn"/>
 
-<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Web+Applications;⚡+Angular+%7C+Node.js+%7C+MEAN+Stack;🤖+AI+%26+Automation+Engineer;💼+Open+to+Remote+%26+International+Roles;🎯+MVP+Specialist+%7C+SaaS+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=720&lines=I+turn+ambitious+ideas+into+software+that+ships+%E2%80%94+and+scales.;Angular+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS;SaaS+%C2%B7+APIs+%C2%B7+AI+integrations+%C2%B7+Technical+leadership;Open+to+remote+contracts+%26+full-time+roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Badges Row 1 -->
-<a href="https://www.linkedin.com/in/developer-zohaib">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+<a href="https://zohaib-amin.web.app">
+  <img src="https://img.shields.io/badge/Portfolio-zohaib--amin.web.app-0f172a?style=for-the-badge&logo=googlechrome&logoColor=94a3b8"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/zohaib-amin-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="mailto:sr.zohaibamin@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-sr.zohaibamin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
-<a href="https://github.com/dev-zohaibamin">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.upwork.com/freelancers/~014eb9f7e14ea66f16">
+  <img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>&nbsp;
-<a href="https://dev.to/srzohaibamin">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>&nbsp;
-<a href="https://codesandbox.com/dev-zohaibamin">
-  <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=dev-zohaibamin&label=Profile+Views&color=00d9ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dev-zohaibamin&label=Profile+Views&color=64748b&style=for-the-badge"/>
 
 <br/><br/>
 
-<!-- Availability Badge -->
-<img src="https://img.shields.io/badge/🟢%20AVAILABLE%20FOR%20HIRE-00c853?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Available%20for%20hire-16a34a?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼%20Remote%20%7C%20Contract%20%7C%20Full--Time-0d47a1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Remote%20%7C%20Contract%20%7C%20Full--Time-1e293b?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## About
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+Senior Full-Stack Developer and Software Engineer with **8+ years** building scalable web applications, SaaS platforms, and digital products for teams across the **USA, UK, France, Germany, KSA, UAE, Singapore**, and more.
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+I don't just implement features — I understand the business problem, design the right architecture, and take products from concept to production.
 
-```typescript
-const zohaib: SeniorEngineer = {
-  name:        "Zohaib Amin",
-  title:       "Senior Full Stack Engineer",
-  experience:  "7+ Years",
-  location:    "Pakistan 🇵🇰 | Open to Remote 🌍",
-  email:       "sr.zohaibamin@gmail.com",
-  education:   "M.S. Computer Science — Univ. of Education, Lahore",
-
-  currentRole: [
-    "Product Dev Engineer @ Ask Yaya 🇬🇧",
-    "Full Stack Engineer @ Metalinq 🇸🇦",
-    "Freelancer @ Upwork 🌐"
-  ],
-
-  expertise: {
-    frontend:   ["Angular v12–20", "TypeScript", "Tailwind", "RxJS"],
-    backend:    ["Node.js", "NestJS", "Express.js", "GraphQL"],
-    databases:  ["MongoDB", "MySQL", "PostgreSQL"],
-    cloud:      ["AWS S3", "Firebase", "Heroku", "Nginx"],
-    automation: ["n8n", "CI/CD Pipelines", "DevOps (AIM)"],
-    testing:    ["Jasmine", "Karma", "Mocha", "Jest"],
-    ai:         ["LLM Integration", "AI-powered Apps"]
-  },
-
-  superPowers: [
-    "⚡ Fast MVP delivery without cutting corners",
-    "🏗️  Scalable architecture from day one",
-    "🔐 Security-first API & auth design",
-    "🤖 Workflow automation with n8n",
-    "📈 Legacy system modernisation"
-  ],
-
-  philosophy: "Build it right. Build it fast. Build it to scale.",
-  openTo:     ["SaaS Products", "Startup MVPs", "Remote Contracts"]
+```ts
+const zohaib = {
+  role: "Senior Full-Stack Engineer",
+  experience: "8+ years",
+  delivered: "50+ applications",
+  location: "Multan, Pakistan · Open to remote",
+  stack: ["Angular", "React", "Next.js", "Node.js", "NestJS", "MongoDB"],
+  focus: ["SaaS products", "APIs", "AI integrations", "Technical leadership"],
+  philosophy:
+    "Build it right. Ship it fast. Design it to scale.",
 };
 ```
 
-<br clear="right"/>
+**Portfolio:** [zohaib-amin.web.app](https://zohaib-amin.web.app) · **Resume:** [Download PDF](https://zohaib-amin.web.app/resume/Zohaib-Amin-Resume.pdf)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+## Highlights
+
+| | |
+|---|---|
+| **8+** years engineering experience | **50+** apps delivered |
+| **100%** Upwork Job Success | **28** completed Upwork jobs |
+| **1,886+** hours on Upwork | **13** LinkedIn recommendations |
+| **35+** portfolio case studies | **8+** countries served |
+
+---
+
+## Tech Stack
+
+**Frontend** — Angular · React · Next.js · TypeScript · RxJS · Tailwind CSS · Angular Material
+
+**Backend** — Node.js · NestJS · Express · Laravel · REST APIs · GraphQL · JWT / OAuth
+
+**Data** — MongoDB · PostgreSQL · MySQL · indexing · aggregations · query optimization
+
+**Cloud & DevOps** — AWS · Firebase · Nginx · CI/CD · Docker basics
+
+**Product** — SaaS architecture · multi-tenant systems · AI / LLM integrations · n8n automation
+
+---
+
+## Experience
+
+| Period | Company | Role | Location |
+|--------|---------|------|----------|
+| Aug 2026 – Present | **HighGate** | Senior Software Engineer / Full-Stack | Pakistan (Remote) |
+| Mar 2026 – Present | **Ask Yaya** | Senior Product Development Engineer | London, UK |
+| Oct 2025 – Mar 2026 | **Foxera** | Senior Angular Developer / Frontend Lead | Paris, France |
+| Nov 2023 – Oct 2026 | **Metalinq** | Team Lead & Senior Software Engineer | Saudi Arabia |
+| Jun 2019 – Jun 2026 | **Technovez** | Team Lead & Senior Full-Stack Engineer | Pakistan / USA |
+| Oct 2024 – Apr 2025 | **Kovo Fitness** | Back End Developer | United States |
+| May 2024 – Dec 2024 | **Heidberg Consulting** | Associate Software Engineer | Germany / USA |
+| Jan 2024 – May 2024 | **D2Soft Intelligence** | Senior Frontend Developer | UAE |
+| Feb 2023 – Dec 2023 | **InsightzClub** | Back End Developer | Singapore |
+| Jan 2022 – Dec 2022 | **GmitsTech FZ LLC** | Back End Developer | Dubai, UAE |
+
+Full case studies and project write-ups: [zohaib-amin.web.app/projects](https://zohaib-amin.web.app/projects)
+
+---
+
+## What I Build
+
+- **SaaS & MVPs** — production-ready Angular / React / Node.js products in weeks, not months  
+- **Secure APIs** — JWT, RBAC, OAuth, multi-tenant isolation, Stripe & third-party integrations  
+- **Scalable architecture** — modular SPAs, NestJS/Express services, MongoDB & PostgreSQL design  
+- **AI & automation** — LLM features, agents, RAG patterns, n8n workflows  
+- **Legacy modernization** — Angular upgrades, refactors, performance and reliability fixes  
+- **Leadership** — mentoring, code reviews, delivery ownership with product teams  
+
+---
+
+## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-zohaibamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=12" height="185em"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zohaibamin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=12" height="185em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-zohaibamin&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1220&title_color=e2e8f0&icon_color=94a3b8&text_color=cbd5e1&border_radius=8" height="165em"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zohaibamin&layout=compact&langs_count=8&theme=slateorange&hide_border=true&bg_color=0b1220&title_color=e2e8f0&text_color=cbd5e1&border_radius=8" height="165em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-zohaibamin&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=12" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-zohaibamin&theme=dark&hide_border=true&background=0b1220&ring=64748b&fire=94a3b8&currStreakLabel=e2e8f0&sideLabels=94a3b8&sideNums=cbd5e1&dates=64748b&border_radius=8" width="68%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-zohaibamin&bg_color=0d1117&color=00d9ff&line=1a6b96&point=ffffff&area=true&hide_border=true&border_radius=12" width="97%"/>
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Education
 
-## 🏆 GitHub Achievements
+**B.S. / Master in Information Technology & Computer Science**  
+University of Education, Lahore · 2014 – 2018
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-zohaibamin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Let's work together
 
-## 🛠️ Full Tech Arsenal
+Building a SaaS product, launching an MVP, modernizing a legacy system, or need a senior full-stack engineer who owns delivery end to end?
 
 <div align="center">
 
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend Frameworks & UI
-![Angular](https://img.shields.io/badge/Angular_v12--20-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-
-### 🤖 Automation & AI
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-00d9ff?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### 🧪 Testing & Quality
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-![Karma](https://img.shields.io/badge/Karma-429C46?style=for-the-badge&logo=karma&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Career Journey
-
-<div align="center">
-
-```
-2026 – Present  ──────────────────────────────────────────────────────────────
-  🏢  Ask Yaya                    │ Product Development Engineer
-  📍  London, UK 🇬🇧              │ Enterprise full-stack, AI-powered features
-
-2025 – 2026  ─────────────────────────────────────────────────────────────────
-  🏢  Foxera AI                   │ Product Development Engineer
-  📍  France 🇫🇷                  │ Angular v20 SPAs, RESTful APIs, UI/UX
-
-2023 – 2024  ─────────────────────────────────────────────────────────────────
-  🏢  G Suite Automation Ltd      │ Senior Angular Developer
-  📍  Greece 🇬🇷                  │ Enterprise SPAs, DevOps, Auth Systems
-
-2023 – Present  ──────────────────────────────────────────────────────────────
-  🏢  Upwork (Freelance)          │ Full Stack Engineer
-  📍  Remote 🌍                   │ MEAN Stack, SaaS MVPs, Client Delivery
-
-2022 – Present  ──────────────────────────────────────────────────────────────
-  🏢  Metalinq                    │ Full Stack Engineer
-  📍  Saudi Arabia 🇸🇦            │ Enterprise-grade Angular & Node.js apps
-
-2022 – 2023  ─────────────────────────────────────────────────────────────────
-  🏢  InsightzClub                │ JavaScript Developer
-  📍  Singapore 🇸🇬               │ Node.js microservices, backend APIs
-
-2022  ────────────────────────────────────────────────────────────────────────
-  🏢  GmitsTech FZ LLC            │ Back End Developer
-  📍  UAE 🇦🇪                     │ Node.js, REST APIs, security refactoring
-
-2019 – Present  ──────────────────────────────────────────────────────────────
-  🏢  Technovez                   │ Full Stack Engineer
-  📍  Multan, Pakistan 🇵🇰        │ MEAN Stack, SPAs, CI/CD, JWT Auth
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 What I Build
-
-<div align="center">
-
-|  | What | How |
-|:---:|:---|:---|
-| 🚀 | **Fast MVP Delivery** | Angular + Node.js + MongoDB — production-ready in weeks |
-| 🔐 | **Secure Auth Systems** | JWT, Role-Based Access, OAuth, SSL hardening |
-| 🏗️ | **Scalable Architecture** | Microservices, modular SPAs, clean separation of concerns |
-| 🤖 | **Business Automation** | n8n workflows, CI/CD pipelines, DevOps via AIM |
-| 📱 | **Responsive Enterprise UIs** | Cross-platform SPAs — desktop, tablet, mobile |
-| 🔄 | **Legacy Modernisation** | Angular v1→v20 migrations, codebase refactoring |
-| 🧪 | **Tested & Reliable Code** | Jasmine, Karma, Mocha — unit + integration + e2e |
-| 📄 | **Complete Documentation** | APIs, workflows, onboarding docs for teams |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   ████████████████████░░░░   82%
-JavaScript   ████░░░░░░░░░░░░░░░░░░░░   14%
-Python       █░░░░░░░░░░░░░░░░░░░░░░░    3%
-Other        ░░░░░░░░░░░░░░░░░░░░░░░░    1%
-```
-<!--END_SECTION:waka-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Build Something Great
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-### Are you...
-
-> 🧩 **Building a SaaS product?**&nbsp;&nbsp;|&nbsp;&nbsp;🚀 **Launching a startup MVP?**&nbsp;&nbsp;|&nbsp;&nbsp;🔧 **Rebuilding a slow system?**&nbsp;&nbsp;|&nbsp;&nbsp;⚡ **Need automation to save time?**
-
-### Let's Talk
-
+<a href="https://zohaib-amin.web.app">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-0f172a?style=for-the-badge"/>
+</a>&nbsp;
 <a href="mailto:sr.zohaibamin@gmail.com">
-  <img src="https://img.shields.io/badge/📩%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/developer-zohaib">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/zohaib-amin-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://github.com/dev-zohaibamin">
-  <img src="https://img.shields.io/badge/⭐%20Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.upwork.com/freelancers/~014eb9f7e14ea66f16">
+  <img src="https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-> *Send me a message with the word* **`MVP`** *and let's start building.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0b1220&height=120&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=94a3b8&fontAlignY=70&animation=fadeIn"/>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1a6b96,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 </div>
